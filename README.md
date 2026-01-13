@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'n Angad, an aspiring game developer and software engineer.
+
+I outline and develop full-stack project and game ideas that I find interest in
+
+My tech stack consists of react, tailwind, typscript, sql, though I have much experience in tools like unity and version control systems
+
+My newest project is [FilmRate](https://github.com/pesky-t6/FilmRate), where users can leave reviews on their favourite films and shows
 <!--
 **pesky-t6/pesky-t6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
