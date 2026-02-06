@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'n Angad, an aspiring game developer and software engineer.
+I'n Angad, an aspiring game developer and software developer.
 
 I outline and develop full-stack project and game ideas that I find interest in
 
